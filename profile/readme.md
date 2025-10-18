@@ -19,15 +19,19 @@ Its mission is to help you build flexible, modular, and sustainable systems with
 - [**Assetify**](https://github.com/larawise/assetify) - **(Soon)**
 - [**Authify**](https://github.com/larawise/authify) - **(Soon)**
 - [**Buildify**](https://github.com/larawise/buildify) - **(Soon)**
-- [**CLI**](https://github.com/larawise/console) - **(Soon)**
+- [**Console**](https://github.com/larawise/console) - **(Soon)**
 - [**Convertify**](https://github.com/larawise/convertify) - **(Soon)**
 - [**Dashify**](https://github.com/larawise/dashify) - **(Soon)**
 - [**Hookify**](https://github.com/larawise/hookify) - **(Soon)**
 - [**Iconify**](https://github.com/larawise/iconify) - **(Soon)**
+- [**Installify**](https://github.com/larawise/installify) - **(Soon)**
 - [**Larawise**](https://github.com/larawise/larawise) - **(Soon)**
 - [**Localify**](https://github.com/larawise/localify) - **(Soon)**
 - [**Packagify**](https://github.com/larawise/packagify) - **(Soon)**
+- [**Pluginify**](https://github.com/larawise/pluginify) - **(Soon)**
 - [**Reusable**](https://github.com/larawise/reusable) - **(Soon)**
+- [**Seotify**](https://github.com/larawise/seotify) - **(Soon)**
 - [**Settingfy**](https://github.com/larawise/settingfy) - **(Soon)**
+- [**Themify**](https://github.com/larawise/themify) - **(Soon)**
 
 **Larawise** will primarily focus on the **Laravel** framework. While the components and packages within its ecosystem are built with cross-framework compatibility in mind, Laravel will remain the central target. Fully open-source and permanently **free**.
