@@ -18,7 +18,7 @@ Its mission is to help you build flexible, modular, and sustainable systems with
 ### Ecosystem
 - [**Assetify**](https://github.com/larawise/assetify) - **(Soon)**
 - [**Authify**](https://github.com/larawise/authify) - **(Soon)**
-- [**Buildify**](https://github.com/larawise/buildify) - **(Soon)**
+- [**Buildfy**](https://github.com/larawise/buildfy) - **(Soon)**
 - [**Console**](https://github.com/larawise/console) - **(Soon)**
 - [**Convertify**](https://github.com/larawise/convertify) - **(Soon)**
 - [**Dashify**](https://github.com/larawise/dashify) - **(Soon)**
