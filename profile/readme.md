@@ -16,18 +16,18 @@ Its mission is to help you build flexible, modular, and sustainable systems with
 > Built for developers who value semantic clarity, structural ergonomics, and long-term maintainability.
 
 ### Ecosystem
-- [**Assetify**](https://poox.io) - **(Soon)**
-- [**Authify**](https://poox.io) - **(Soon)**
-- [**Buildify**](https://blocks.poox.io/) - **(Soon)**
-- [**CLI**](https://blocks.poox.io/) - **(Soon)**
-- [**Convertify**](https://poox.io) - **(Soon)**
-- [**Dashify**](https://poox.io) - **(Soon)**
-- [**Hookify**](https://poox.io) - **(Soon)**
-- [**Iconify**](https://poox.io) - **(Soon)**
-- [**Larawise**](https://poox.io) - **(Soon)**
-- [**Localify**](https://poox.io) - **(Soon)**
-- [**Packagify**](https://poox.io) - Laravel packages made intuitive for every developer. **(Soon)**
-- [**Reusable**](https://templates.poox.io) - **(Soon)**
-- [**Settingfy**](https://blocks.poox.io/) - **(Soon)**
+- [**Assetify**](https://github.com/larawise/assetify) - **(Soon)**
+- [**Authify**](https://github.com/larawise/authify) - **(Soon)**
+- [**Buildify**](https://github.com/larawise/buildify) - **(Soon)**
+- [**CLI**](https://github.com/larawise/console) - **(Soon)**
+- [**Convertify**](https://github.com/larawise/convertify) - **(Soon)**
+- [**Dashify**](https://github.com/larawise/dashify) - **(Soon)**
+- [**Hookify**](https://github.com/larawise/hookify) - **(Soon)**
+- [**Iconify**](https://github.com/larawise/iconify) - **(Soon)**
+- [**Larawise**](https://github.com/larawise/larawise) - **(Soon)**
+- [**Localify**](https://github.com/larawise/localify) - **(Soon)**
+- [**Packagify**](https://github.com/larawise/packagify) - **(Soon)**
+- [**Reusable**](https://github.com/larawise/reusable) - **(Soon)**
+- [**Settingfy**](https://github.com/larawise/settingfy) - **(Soon)**
 
 **Larawise** will primarily focus on the **Laravel** framework. While the components and packages within its ecosystem are built with cross-framework compatibility in mind, Laravel will remain the central target. Fully open-source and permanently **free**.
