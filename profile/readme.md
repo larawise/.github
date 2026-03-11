@@ -22,7 +22,7 @@ Its mission is to help you build flexible, modular, and sustainable systems with
 - [**Console**](https://github.com/larawise/console) - **(Soon)**
 - [**Convertify**](https://github.com/larawise/convertify) - **(Soon)**
 - [**Dashify**](https://github.com/larawise/dashify) - **(Soon)**
-- [**Hookify**](https://github.com/larawise/hookify) - **(Soon)**
+- [**Hookify**](https://github.com/larawise/hookify) - A fluent, taggable, testable hook system for Laravel. Register listeners with clarity, fire actions with precision, and filter data with confidence — all in one elegant package.
 - [**Iconify**](https://github.com/larawise/iconify) - **(Soon)**
 - [**Installify**](https://github.com/larawise/installify) - **(Soon)**
 - [**Larawise**](https://github.com/larawise/larawise) - **(Soon)**
